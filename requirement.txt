@@ -1,0 +1,9 @@
+opencv-python
+face-recognition
+dlib
+imutils
+numpy
+Pillow
+scipy
+scikit-learn
+imgaug
